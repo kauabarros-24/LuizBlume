@@ -14,8 +14,7 @@
   <h2>Main Knowledge</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="40" alt="python logo"  />
   <br>
-  <h2>Other Knowledge -> Backend</h2>
-  
+  <h2>Frontend</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo"  />
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo"  />
@@ -26,31 +25,19 @@
   <img width="9" />
   <img width="40" src="https://vuejs.org/images/logo.png" alt="Vue logo" height="40">
   <img width="9" />
-  <img width="40" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass logo" height="40">
-  <img width="9" />
- <img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React logo" height="40">
-  <img width="9" />
- <img width="40" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma logo" height="40">
-   <img width="9" />
-  <h2>Technologies Back-end</h2>
+  <h2>Backend</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="40" alt="python logo"  />
   <img width="9" />
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" height="50" alt="php logo"  />
   <img width="9" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="50" />
   <img width="9"/>
-  <h2>Operating System</h2>
- <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" height="40" width="40" alt="Windows logo"  />
-  <img width="9" />
- <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" height="40" width="40" alt="Linux logo"  />
-  <img width="9" />
- <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" height="40" width="40" alt="Ubuntu logo"  />
-  <img width="9" />
-</div>
+  
+  
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19B5FE&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/LuizBlume)
-<p><img src="https://profile-counter.glitch.me/{LuizBlume}/count.svg" /></p> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19B5FE&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/kaubarros-24)
+<p><img src="https://profile-counter.glitch.me/{kauabarros-24}/count.svg" /></p> 
 
 </div>
 
