@@ -1,17 +1,21 @@
  
-<h2 align="center" style="color: #e83d84;">Get to know a little about me.</h2>
+<h2 align="center" style="color: #e83d84;">Hello Guys!</h2>
 
 <div align="center">
-  <a href="https://github.com/LuizBlume">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuizBlume&bg_color=30,6A00C9,00736E&title_color=fff&text_color=fff" />
+  <a href="https://github.com/kauabarros-24">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kauabarros-24&bg_color=30,6A00C9,00736E&title_color=fff&text_color=fff" />
 </a>
-<a href="https://github.com/LuizBlume">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBlume&layout=donut&bg_color=141424&title_color=22A7F0&text_color=8ef5fa&icon_color=2596be)](https://github.com/LuizBlume"/ >
+<a href="https://github.com/kauabarrros">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauabarros-24&layout=donut&bg_color=141424&title_color=22A7F0&text_color=8ef5fa&icon_color=2596be)](https://github.com/kauabarros"/ >
 </a>
 </div>
 
 <div align="center">
-  <h2>Technologies Front-end</h2>
+  <h2>Main Knowledge</h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="40" alt="python logo"  />
+  <br>
+  <h2>Other Knowledge -> Backend</h2>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo"  />
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo"  />
